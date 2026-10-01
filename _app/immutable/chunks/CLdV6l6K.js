@@ -1,0 +1,1 @@
+import{X as e}from"./CKq3gxrY.js";var t=e({entered:!1,quality:typeof matchMedia<`u`&&(matchMedia(`(pointer: coarse)`).matches||innerWidth<760)?`low`:`normal`});export{t};
