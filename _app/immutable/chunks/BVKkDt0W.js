@@ -1,0 +1,1 @@
+import{$ as e}from"./CgPRBv6h.js";var t=e({quality:`normal`,entered:!1,inCorridor:!1,corridorPos:0});export{t};
